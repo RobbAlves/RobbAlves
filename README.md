@@ -1,6 +1,6 @@
 # Olá! Eu sou o Robson 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e formado em Desenvolvimento Full Stack pelo curso técnico Dev Club/FaculdadeUnyplública.  
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e formado em Desenvolvimento Full Stack pelo curso técnico DevClub/Faculdade Unyplública.  
 Entusiasta em tecnologia e desenvolvimento web, com foco tanto em Front-end quanto Back-end, sempre buscando aprender e melhorar minhas habilidades.  
 Moro em Guarulhos-SP.
 
