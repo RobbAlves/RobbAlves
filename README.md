@@ -1,6 +1,6 @@
 # Olá! Eu sou o Robson 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e formado em Desenvolvimento Full Stack pelo curso técnico.  
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e formado em Desenvolvimento Full Stack pelo curso técnico Dev Club/FaculdadeUnyplública.  
 Entusiasta em tecnologia e desenvolvimento web, com foco tanto em Front-end quanto Back-end, sempre buscando aprender e melhorar minhas habilidades.  
 Moro em Guarulhos-SP.
 
@@ -44,12 +44,9 @@ Esse projeto reflete meu compromisso em entregar soluções funcionais e visualm
 ## Outros Projetos
 
 - [Sistema Estoque Adega](https://github.com/RobbAlves/estoque-adega) - Sistema desktop em Python com Tkinter para gerenciamento de estoque, imagens e geração de relatórios PDF.  
-- [Seu Projeto 2](https://github.com/RobbAlves/seu-projeto-2) - Breve descrição do projeto.  
-- [Seu Projeto 3](https://github.com/RobbAlves/seu-projeto-3) - Breve descrição do projeto.
 
-## Estatísticas GitHub
 
-[![Robb Alves](https://github-readme-stats.vercel.app/api?username=RobbAlves&show_icons=true&theme=radical)](https://github.com/RobbAlves)  
+## Estatísticas GitHub 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbAlves&layout=compact)](https://github.com/RobbAlves)
 
 ## Contato
